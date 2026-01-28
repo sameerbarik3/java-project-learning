@@ -14,4 +14,8 @@ Specifically, performed the following tasks.
 
     6.Used file I/O and serialization ('ObjectOutputStream', 'ObjectInputStream') to save and reload application data, demonstrating data persistence, across sessions. 
 
-By completing both projects, I learned i can design and implement Java applications using 'class' structures, encapsulation, 'HashMap', 'ArrayList', exception handling, 'Scanner' input, and file-based persistence. You can build robust, user-driven systems that store and manage data, respond to user choices, and produce meaningful reports. 
+By completing  project, I learned i can design and implement Java applications using 'class' structures, encapsulation, 'HashMap', 'ArrayList', exception handling, 'Scanner' input, and file-based persistence. You can build robust, user-driven systems that store and manage data, respond to user choices, and produce meaningful reports.
+
+** Run BY : 1.cd /home/project/PetCareScheduler
+       2. javac *.java
+       3.java PetCareScheduler and enjoy **
