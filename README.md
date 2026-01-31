@@ -56,7 +56,19 @@ Console-based UI
 
     6.Used file I/O and serialization ('ObjectOutputStream', 'ObjectInputStream') to save and reload application data, demonstrating data persistence, across sessions. 
 
-By completing  project, I learned i can design and implement Java applications using 'class' structures, encapsulation, 'HashMap', 'ArrayList', exception handling, 'Scanner' input, and file-based persistence. You can build robust, user-driven systems that store and manage data, respond to user choices, and produce meaningful reports.
+🧠 Learning Outcomes
+
+Applied OOP concepts to build a real-world Java application
+
+Worked with collections to manage dynamic data
+
+Used Java Date & Time API for scheduling and comparisons
+
+Implemented file-based persistence
+
+Improved error handling and user input validation
+
+Generated meaningful reports from stored data
 
 ** Run BY : 1.cd /home/project/PetCareScheduler
        2. javac *.java
